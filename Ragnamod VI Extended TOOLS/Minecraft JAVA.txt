@@ -1,0 +1,2 @@
+-Xmx16384m -Xms256m -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US
+C:\Program Files\Java\jre1.8.0_341\bin\javaw.exe
