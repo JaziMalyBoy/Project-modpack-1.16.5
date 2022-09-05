@@ -1,1 +1,1 @@
--Xmx17120m -Xms256m -Dminecraft.applet.TargetDirectory="C:\MultiMC\Ragnamod VI Extended CLIENT" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US
+-Xmx16384m -Xms4096m -Dminecraft.applet.TargetDirectory="C:\MultiMC\Ragnamod VI Extended CLIENT" -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -Duser.language=en -Duser.country=US
