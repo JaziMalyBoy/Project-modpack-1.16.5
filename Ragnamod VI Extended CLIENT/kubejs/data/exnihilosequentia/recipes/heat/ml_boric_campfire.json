@@ -1,0 +1,8 @@
+{
+  "type": "exnihilosequentia:heat",
+  "block": "byg:boric_campfire",
+  "amount": 15,
+  "state": {
+    "lit": "true"
+  }
+}

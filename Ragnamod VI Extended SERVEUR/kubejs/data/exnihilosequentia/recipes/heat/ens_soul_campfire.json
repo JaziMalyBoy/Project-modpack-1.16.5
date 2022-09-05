@@ -1,0 +1,8 @@
+{
+  "type": "exnihilosequentia:heat",
+  "block": "minecraft:soul_campfire",
+  "amount": 10,
+  "state": {
+    "lit": "true"
+  }
+}
